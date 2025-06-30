@@ -24,9 +24,9 @@ setup(
         "pytest",
         "typing-extensions",
     ],
-    source="https://github.com/EMACC99/mangadex",
-    download_url="https://github.com/EMACC99/mangadex/releases",
-    documentation="https://github.com/EMACC99/mangadex/wiki",
+    source="https://github.com/annguyen2k8/mangadex",
+    download_url="https://github.com/annguyen2k8/mangadex/releases",
+    documentation="https://github.com/annguyen2k8/mangadex/wiki",
     license="MIT",
     keywords=["python", "mangadex"],
     clasifiers=[
